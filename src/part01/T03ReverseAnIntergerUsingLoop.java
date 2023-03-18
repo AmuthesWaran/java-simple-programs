@@ -6,6 +6,8 @@ public class T03ReverseAnIntergerUsingLoop {
 
 	public static void main(String[] args) {
 		
+//		Java Program to Reverse a Number using loop concepts
+		
 		int givenInt;
 		String reversed = "";
 		

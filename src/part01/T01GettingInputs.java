@@ -6,6 +6,8 @@ public class T01GettingInputs {
 	
 	public static void main(String[] args) {
 		
+//		Java Program to Print user input
+		
 		int number;
 		float floatNum;
 		double doubleNum;
