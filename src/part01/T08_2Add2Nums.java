@@ -12,6 +12,7 @@ public static void main(String[] args) {
 		
 	double num1, num2;
 	
+	
 	Scanner s = new Scanner(System.in);
 	
 	System.out.println("Enter 1st Number: ");
